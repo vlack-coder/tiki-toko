@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simcoder_here/)
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
 
-> Main repository of the SimCoder's youtube series &#34;Make an App like TIKTOK&#34;
+> Main repository of the Ghimmy's;
 
 Make a web app Like TIKTOK
 

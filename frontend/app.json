@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "frontend",
+    "slug": "frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyBuo5J4rBRZ7UwFy8pc3gVsMn3gun445sY",
+          "authDomain": "rn-instablog.firebaseapp.com",
+          "projectId": "rn-instablog",
+          "storageBucket": "rn-instablog.appspot.com",
+          "messagingSenderId": "549816339518",
+          "appId": "1:549816339518:web:af53484c59b6aeda4f956f",
+          "measurementId": "G-DWD9HG0J8Z"
+        }
+      }
+    },
+
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "****",
+          "authDomain": "****",
+          "databaseURL": "****",
+          "projectId": "****",
+          "storageBucket": "****",
+          "messagingSenderId": "****",
+          "appId": "****",
+          "measurementId": "****"
+        }
+      }
+    }
+  }
+}
